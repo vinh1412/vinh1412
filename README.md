@@ -46,6 +46,12 @@
   <a href="https://www.facebook.com/hienvinh.tran.37" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranhienvinh-facebook" />
   </a>
+   <a href="" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="tranhienvinh-zalo" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCZ02NrgjrpBqxP1EXlPagsw" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=115362&format=png&color=000000" alt="tranhienvinh-youtube" />
+  </a>
 </div>
 
 <br>
