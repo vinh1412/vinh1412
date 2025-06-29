@@ -54,7 +54,7 @@
     <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="tranhienvinh-zalo" />
   </a>
   <a href="www.linkedin.com/in/tran-hien-vinh-thv1412" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="tranhienvinh-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="tranhienvinh-linkedin" />
   </a>
 </div>
 
