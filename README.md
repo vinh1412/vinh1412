@@ -8,7 +8,9 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=00F200" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -22,7 +24,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariaDB&logoColor=003545" alt="MariaDB logo" title="MariaDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongoDB&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 
 <br>
@@ -49,8 +53,8 @@
    <a href="" target="blank">
     <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="tranhienvinh-zalo" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZ02NrgjrpBqxP1EXlPagsw" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=115362&format=png&color=000000" alt="tranhienvinh-youtube" />
+  <a href="www.linkedin.com/in/tran-hien-vinh-thv1412" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="tranhienvinh-linkedin" />
   </a>
 </div>
 
@@ -60,4 +64,3 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
-
